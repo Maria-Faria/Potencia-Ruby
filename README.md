@@ -12,8 +12,8 @@
 
 - Após criação do array, foi criado um loop para solicitar 3 números ao usuário
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/168a7061-3cc5-4c56-9fb0-0dadc7f2ce3c)
 
-  - Posteriormente, por meio da estrutura de repetição map!, o conteúdo do array foi alterado para receber os valores originais elevados a 3ª potência
+- Posteriormente, por meio da estrutura de repetição map!, o conteúdo do array foi alterado para receber os valores originais elevados a 3ª potência
 
-  ![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/f1a9d480-0db9-419d-8ce7-0b67ea100c57)
